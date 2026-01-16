@@ -11,7 +11,7 @@
 - 🔭 Currently working on **web-based projects using React & JavaScript**
 - 🌱 Improving skills in **Frontend Development & Problem Solving**
 - 👯 Open to collaborating on **web apps, open-source & learning projects**
-- 📫 Reach me at: **yakamishristi@gamil.com**  
+- 📫 Reach me at: **yakamishristi@gmail.com**  
 - ⚡ Fun fact: *I enjoy turning ideas into real applications*
 
 ---
